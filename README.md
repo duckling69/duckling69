@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vivek jha
-- 👀 I’m interested in web development, data science, ai, solving problems.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Vivek jha
+- 👀 I’m interested in Web development, data science, ai, solving problems.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any new project
 - 📫 How to reach me email me at : vivekjha3080@gmail.com 
 
