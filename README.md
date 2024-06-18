@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vivekjha3080@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LTQitajMrjtD43-LYD7A6z1V0YeauIC7/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LTQitajMrjtD43-LYD7A6z1V0YeauIC7/view?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
