@@ -1,26 +1,144 @@
-<h1 align="center">Hi 👋, I'm Vivek Jha</h1> 
-<h3 align="center">Fullstack Developer currently exploring devops and opensource</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duckling69&label=Profile%20views&color=0e75b6&style=flat" alt="duckling69" /> </p>
+# Hey, I'm Vivek Jha 👋
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckling69" alt="duckling69" /></a> </p>
+### Full-stack / Web3 Engineer
 
-- 🌱 I’m currently learning **Golang and kubernetes**
+I build backend-heavy products, dApps, and systems that move from idea → prototype → usable product.
 
-- 📫 How to reach me **vivekjha3080@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LTQitajMrjtD43-LYD7A6z1V0YeauIC7/view?)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vivekjha30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekjha30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-jha-17000918b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-jha-17000918b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shanks69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shanks69" height="30" width="40" /></a>
+<p>
+  <a href="mailto:vivekjha3080@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vivekjha3080%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-jha-17000918b">
+    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Jha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vivekjha30">
+    <img src="https://img.shields.io/badge/X-@vivekjha30-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://vivekjhaportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=duckling69&label=Profile%20Views&color=0e75b6&style=flat" />
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=duckling69&show_icons=true&locale=en) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=duckling69&) |
-|---|---|
+</div>
 
+---
+
+## About me
+
+I’m a software engineer with a mathematics and computation background from **NIT Rourkela**.
+I started coding in my first year of college after joining the web development group, and since then I’ve worked across frontend, backend, DevOps, open source, and Web3.
+
+I enjoy building products where engineering meets real user problems — from full-stack applications and backend APIs to decentralized applications, smart contract flows, and infrastructure-heavy systems.
+
+Right now, I’m focused on:
+
+* Building full-stack and backend-heavy applications
+* Exploring Web3, dApps, smart contracts, and on-chain product ideas
+* Improving my DevOps skills with Linux, Docker, Kubernetes, and cloud-native tooling
+* Contributing to open source and learning from real production codebases
+* Sharpening my Go and system design fundamentals
+
+---
+
+## What I like working on
+
+* Turning rough product ideas into working MVPs
+* Building clean APIs, dashboards, and user-facing product flows
+* Debugging across the stack instead of staying in one layer
+* Working on crypto, infra, creator economy, and AI-assisted products
+* Shipping fast, then improving the system properly
+
+---
+
+## Tech stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,cpp,c,solidity" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,figma" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,appwrite" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,kubernetes,webpack" />
+</p>
+
+---
+
+## Current focus
+
+```txt
+Backend Engineering  █████████░░
+Web3 / Smart Contracts ████████░░
+DevOps / Kubernetes  ███████░░░
+Open Source          ████████░░
+Golang               ██████░░░░
+```
+
+---
+
+## Projects and interests
+
+I’m especially interested in projects around:
+
+* Web3-native consumer apps
+* Creator economy and live streaming products
+* DeFi, treasury systems, vaults, and on-chain coordination
+* Developer tools and infra
+* AI-assisted workflows and automation
+
+One of the ideas I’ve been exploring is **KINO**, a Web3-native live streaming platform where early fans can back emerging streamers and participate in the value they help create.
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duckling69&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=duckling69&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckling69&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Connect with me
+
+I’m always open to talking about software engineering, Web3, open source, startups, and interesting product ideas.
+
+<p>
+  <a href="mailto:vivekjha3080@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vivek-jha-17000918b">LinkedIn</a> •
+  <a href="https://twitter.com/vivekjha30">X / Twitter</a> •
+  <a href="https://vivekjhaportfolio.netlify.app">Portfolio</a> •
+  <a href="https://drive.google.com/file/d/1XRSOSFIErWNKSiqLAnJBEzcD_tQOkb2r">Resume</a>
+</p>
+
+---
+
+<div align="center">
+
+### Building, learning, shipping.
+
+</div>
