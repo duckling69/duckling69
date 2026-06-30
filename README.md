@@ -14,7 +14,7 @@ I build backend-heavy products, dApps, and systems that move from idea → proto
     <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Jha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/0xjuniordev">
-    <img src="https://img.shields.io/badge/X-@vivekjha30-black?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@0xjuniordev-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://vivekjhaportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
