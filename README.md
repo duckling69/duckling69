@@ -13,7 +13,7 @@ I build backend-heavy products, dApps, and systems that move from idea → proto
   <a href="https://www.linkedin.com/in/vivek-jha-17000918b">
     <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Jha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/vivekjha30">
+  <a href="https://twitter.com/0xjuniordev">
     <img src="https://img.shields.io/badge/X-@vivekjha30-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://vivekjhaportfolio.netlify.app">
